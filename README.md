@@ -1,6 +1,6 @@
 # aarch64-docs
 
-The purpose of this repo is to collect and organize notes and other reference information related to writing and debugging ARM64 assembly focusing on development on the Rasbperry Pi 4.
+The purpose of this repo is to collect and organize notes and other reference information related to writing and debugging ARM64 assembly, particularly under Linux on a Raspberry Pi 4.
 
 ## See also
 These are links to official documentation sources.
